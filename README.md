@@ -85,7 +85,7 @@
 ### 코딩테스트 연습 > 연습문제 > 정수 제곱근 판별
 
 * [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12934)
-* [풀이]()
+* [풀이](https://github.com/Solution4904/Algorithm/blob/1de0eaf658380c9108aa5cce9dc51e07cee8563b/app/src/main/java/com/solution/algorithm/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.kt)
 
 1. 문제 접근  
    : 요청받은 값보다 작은 수를 반복문을 사용해서 제곱했을 때 요청받은 값과 같은지 판단하자.
