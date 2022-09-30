@@ -1,7 +1,7 @@
 package com.solution.algorithm
 
 /*
-코딩테스트 연습 > 연습문제 > 자릿수 더하기
+코딩테스트 연습 > 연습문제 > 정수 제곱근 판별
 https://school.programmers.co.kr/learn/courses/30/lessons/12934
 */
 
