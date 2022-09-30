@@ -47,7 +47,7 @@
 ### 코딩테스트 연습 > 연습문제 > 약수의 합
 
 * [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12928)
-* [풀이]()
+* [풀이](https://github.com/Solution4904/Algorithm/blob/fe8755e220a0e5da85daefcd250e7d182fe72a6a/app/src/main/java/com/solution/algorithm/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.kt)
 
 1. 문제 접근  
    : 나누었을 때 나머지 값이 발생하지 않으면 약수라고 판단하면 된다고 생각했다.
