@@ -104,7 +104,7 @@
 ### 코딩테스트 연습 > 연습문제 > 자연수 뒤집어 배열로 만들기
 
 * [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
-* [풀이]()
+* [풀이](https://github.com/Solution4904/Algorithm/blob/b09cd855a6df5d825e75a5c9478a9194464a909e/app/src/main/java/com/solution/algorithm/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.kt)
 
 1. 문제 접근  
    : 전달받은 값을 문자열로 변환시킨 뒤 반복문을 통해 거꾸로 새 배열에 넣자 -> 였지만 이왕이면 '자릿수 더하기'알고리즘을 사용해서 문자열로 바꾸지 않고 숫자인 상태로 바꿔보자
