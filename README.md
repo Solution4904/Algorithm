@@ -66,7 +66,7 @@
 ### 코딩테스트 연습 > 연습문제 > 자릿수 더하기
 
 * [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
-* [풀이]()
+* [풀이](https://github.com/Solution4904/Algorithm/blob/d7fcd7fcfb1c78e8ec8f040a624e8b73b021a752/app/src/main/java/com/solution/algorithm/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.kt)
 
 1. 문제 접근  
    : 문자열로 변환하고 반복문을 사용해서 순서대로 덧셈하는 방식
