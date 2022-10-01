@@ -180,7 +180,7 @@
 ### 코딩테스트 연습 > 연습문제 > x만큼 간격이 있는 n개이 숫자
 
 * [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
-* [풀이]()추가
+* [풀이](https://github.com/Solution4904/Algorithm/blob/560750d5f95f0c2c9fcdd38c42ff80fbcc0b1e16/app/src/main/java/com/solution/algorithm/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.kt)
 
 1. 문제 접근  
    : 단순 반복문 계산으로 해결할 수 있을 것 같다.
