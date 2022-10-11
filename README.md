@@ -199,7 +199,7 @@
 ### 코딩테스트 연습 > 연습문제 > 나머지가 1이 되는 수 찾기
 
 * [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
-* [풀이]()
+* [풀이](https://github.com/Solution4904/Algorithm/blob/ad54a48d70219a0b489e29616db40d8f9cfc9460/app/src/main/java/com/solution/algorithm/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.kt)
 
 1. 문제 접근  
    : 나머지가 1이 될 수 있는 값은 2와 3밖에 없으니, 조건문으로 2,3으로 나눈 나머지를 구해보고 두 조건에 모두 해당하지 않는다면 (-1)일 것이다.
